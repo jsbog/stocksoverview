@@ -6,6 +6,7 @@ Author: Who wrote it
 Maintainer: Jasper Bogaert <jasper.bogaert@ugent.be>
 Description: More about what it does (maybe more than one line)
     Use four spaces (look out for this!) when indenting paragraphs within the Description.
+Imports: stats
 License: GPL (>=2)
 Encoding: UTF-8
 LazyData: true
